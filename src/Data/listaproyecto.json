@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Conversor de playlist spotify a youtube",
+        "url": "https://github.com/SysGarcia/Playlist-converter"
+    },
+    {
+        "nombre": "Interfaz para permancer conectado en el videojuego World of Warcraft",
+        "url": "https://github.com/SysGarcia/AntiAFK-WOW-"
+    },
+    {
+        "nombre": "Bot de Discord para expulsar usuarios de chats de voz de manera automática",
+        "url": "https://github.com/SysGarcia/Hard-Arias"
+    },
+    {
+        "nombre": "Visualización 3D interactiva de la anatomía de una mosca",
+        "url": "https://github.com/SysGarcia/Fly-overview"
+    },
+    {
+        "nombre": "Herramienta rápida en terminal para hacer subnetting",
+        "url": "https://github.com/SysGarcia/Subnetting-with-python"
+    },
+    {
+        "nombre": "Herramienta para crear y usar macros en el videojuego Old School RuneScape utilizando el algoritmo Wind Mouse",
+        "url": "https://github.com/SysGarcia/macro-runescape"
+    },
+    {
+        "nombre": "Visualizador de partidas de ajedrez",
+        "url": "https://github.com/SysGarcia/TFG-Chess"
+    },
+    {
+        "nombre": "Pantalla de carga web del icónico Clippy",
+        "url": "https://github.com/SysGarcia/Clippy-loading-screen"
+    }
+]

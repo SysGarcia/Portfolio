@@ -1,0 +1,10 @@
+---
+export interface Props {
+  nombre: string;
+  url: string;
+}
+
+const { nombre, url } = Astro.props;
+---
+
+<li class="ml-10 text-[21px]"><p>{nombre}</p><a class="text-[#0e239c]" href={url}>{url}</a></li>
